@@ -22,6 +22,20 @@ Confira o vídeo abaixo para ver a maquete da Casa Inteligente em funcionamento:
 
 [![Casa Inteligente - Maquete](https://exemplo.com/video_thumbnail.jpg)](https://exemplo.com/video)
 
+## Como Utilizar
+
+Pré-requisitos:
+
+1. Arduino IDE
+2. Uma maquete com sensores e dispositivos pretendidos
+
+Começar a usar:
+
+1. Extrair os ficheiros;
+2. Abrir os ficheiros no Arduino IDE;
+3. Ver o codigo e ajustar aos sensores e à montagem feita anteriormente;
+4. Ver a magia a acontecer.
+
 ## Créditos
 
 Este projeto foi desenvolvido por:
