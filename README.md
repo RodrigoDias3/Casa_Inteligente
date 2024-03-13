@@ -41,7 +41,7 @@ Começar a usar:
 Este projeto foi desenvolvido por:
 
 - Rodrigo Dias - a22205897
-- Miguel Mela - a
+- Miguel Mela - a21905215
 - Rui Ferreira - a22207191
 
 #### UNIVERSIDADE LUSÓFONA DE HUMANIDADES E TECNOLOGIAS ; 23/24
