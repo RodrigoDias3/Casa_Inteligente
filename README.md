@@ -1,47 +1,46 @@
-# Casa Inteligente: Projeto de Arquitetura Avançada de Computadores
+# Smart Home: Advanced Computer Architecture Project
 
-![Casa Inteligente](https://exemplo.com/imagem.jpg)
+![Smart Home](https://example.com/image.jpg)
 
-Bem-vindo ao projeto de Arquitetura Avançada de Computadores de uma Casa Inteligente! 
+Welcome to the Advanced Computer Architecture project of a Smart Home!
 
-Neste projeto, exploramos a integração de tecnologia de ponta para criar um ambiente residencial que seja inteligente, eficiente e seguro.
+In this project, we explore the integration of cutting-edge technology to create a residential environment that is smart, efficient, and secure.
 
-## Introdução
+## Introduction
 
-O Nosso objetivo é projetar uma casa que seja capaz de automatizar tarefas do dia-a-dia, monitorar o ambiente interno e externo, garantir segurança e oferecer conveniência aos seus habitantes. 
-Utilizamos uma variedade de sensores e sistemas de computação inteligente para alcançar esses objetivos.
+Our goal is to design a home that can automate everyday tasks, monitor the indoor and outdoor environment, ensure security, and offer convenience to its inhabitants. We use a variety of sensors and intelligent computing systems to achieve these objectives.
 
-## Funcionalidades
+## Features
 
-- **Sistema de Segurança Avançado**: Utilizamos sensores de movimento e fechadura da porta com codigo que pode ser alterado apenas sabendo o codigo anterior.
-- **Eficiência Energética**: Sensores de luz e temperatura ajustam automaticamente a iluminação e o aquecimento, otimizando o consumo de energia.
+- **Advanced Security System**: We use motion sensors and a door lock with a code that can only be changed by knowing the previous code.
+- **Energy Efficiency**: Light and temperature sensors automatically adjust lighting and heating, optimizing energy consumption.
 
-## Maquete em Funcionamento
+## Functional Mockup
 
-Confira o vídeo abaixo para ver a maquete da Casa Inteligente em funcionamento:
+Check out the video below to see the Smart Home mockup in action:
 
-[![Casa Inteligente - Maquete](https://exemplo.com/video_thumbnail.jpg)](https://exemplo.com/video)
+[![Smart Home - Mockup](https://example.com/video_thumbnail.jpg)](https://example.com/video)
 
-## Como Utilizar
+## How to Use
 
-Pré-requisitos:
+Prerequisites:
 
 1. Arduino IDE
-2. Uma maquete com sensores e dispositivos pretendidos
+2. A mockup with desired sensors and devices
 
-Começar a usar:
+Getting started:
 
-1. Extrair os ficheiros;
-2. Abrir os ficheiros no Arduino IDE;
-3. Ver o codigo e ajustar aos sensores e à montagem feita anteriormente;
-4. Ver a magia a acontecer.
+1. Extract the files;
+2. Open the files in the Arduino IDE;
+3. Review the code and adjust it to the sensors and assembly previously made;
+4. See the magic happen.
 
-## Créditos
+## Credits
 
-Este projeto foi desenvolvido por:
+This project was developed by:
 
 - Rodrigo Dias - a22205897
 - Miguel Mela - a21905215
 - Rui Ferreira - a22207191
 
-#### UNIVERSIDADE LUSÓFONA DE HUMANIDADES E TECNOLOGIAS ; 23/24
+#### Lusófona University of Humanities and Technologies; 23/24
