@@ -1,6 +1,6 @@
 # Smart Home: Advanced Computer Architecture Project
 
-![Smart Home](https://example.com/image.jpg)
+![casa](https://github.com/user-attachments/assets/5292ef4f-203b-40d1-b8af-e1ad6dd4f764)
 
 Welcome to the Advanced Computer Architecture project of a Smart Home!
 
@@ -19,7 +19,7 @@ Our goal is to design a home that can automate everyday tasks, monitor the indoo
 
 Check out the video below to see the Smart Home mockup in action:
 
-[![Smart Home - Mockup](https://example.com/video_thumbnail.jpg)](https://example.com/video)
+[Youtube Video](https://youtu.be/BLi2EhJKlts)
 
 ## How to Use
 
