@@ -40,7 +40,7 @@ Getting started:
 This project was developed by:
 
 - Rodrigo Dias - a22205897
-- Miguel Mela - a21905215
+- Miguel Melo - a21905215
 - Rui Ferreira - a22207191
 
 #### Lusófona University of Humanities and Technologies; 23/24
